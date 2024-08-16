@@ -1,0 +1,17 @@
+body {
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0px;
+}
+
+header {
+}
+
+main {
+  flex-grow: 1;
+}
+
+footer {
+}
