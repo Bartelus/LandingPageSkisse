@@ -1,5 +1,5 @@
 body {
-  background-color: blueviolet;
+  background-color: rgb(255, 255, 255);
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -12,6 +12,10 @@ header {
 main {
   flex-grow: 1;
 }
+ .tags {
+ border: 5px solid blue;
+ margin: 10px
+ }
 
 footer {
 }
